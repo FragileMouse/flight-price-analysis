@@ -32,7 +32,7 @@ flight-price-analysis/
 
 ├── notebooks/
 
-│   └── Full_work.ipynb     # Основной код с анализом
+│   └── analysis.ipynb     # Основной код с анализом
 
 ├── images/                # Графики из ноутбука
 
